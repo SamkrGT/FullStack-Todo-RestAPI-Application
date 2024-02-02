@@ -1,0 +1,27 @@
+label, input,button {
+    font-size: 20px;
+    font-weight: 100;
+    
+    padding: 10px;
+    margin: 30px; /* Creates a margin around the form container */
+}
+
+.Login {
+    font-size: 50px;
+    font-weight: 200;
+    border: 2px solid #ccc; /* Border style, width, and color */
+    padding: 10px;
+    color:#FF0000 ;/* Text color */
+    background-color: #f0f0f0; /* Background color */
+    margin: 30px; /* Creates a margin around the form container */
+  
+}
+ 
+.footer {
+    bottom:0;
+    position: absolute;
+    width: 90%;
+    height: 40px;
+}
+
+
